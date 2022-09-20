@@ -34,5 +34,10 @@ I am a Full Stack Developer in training at ALX <img src="https://media.giphy.com
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPlain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
