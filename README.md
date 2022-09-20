@@ -40,4 +40,6 @@ I am a Full Stack Developer in training at ALX <img src="https://media.giphy.com
 
 ### :fire: My Stats :
 
+![**Obiasor Gideon's** github stats](https://github-readme-stats.vercel.app/api?username=DrPlain&theme=vision-friendly-dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPlain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
