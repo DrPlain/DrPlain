@@ -41,5 +41,3 @@ I am a Full Stack developer with more experience working with backend technologi
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPlain&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![**Obiasor Gideon's** github stats](https://github-readme-stats.vercel.app/api?username=DrPlain&theme=vision-friendly-dark)
-
