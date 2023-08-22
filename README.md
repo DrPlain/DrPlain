@@ -38,5 +38,6 @@ I am a Full Stack developer with more experience working with backend technologi
 
 ---
 
-### :fire: My Stats :
-[![Gideon GitHub stats](https://github-readme-stats.vercel.app/api?username=DrPlain)](https://github.com/DrPlain/github-readme-stats)
+### :fire: My Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPlain&size_weight=0.5&count_weight=0.5)
