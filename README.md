@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack developer with more experience working with backend technologies (nodeJs, typescript, Express, Flask, dJango, Redis, Mongodb, MySql, docker containers)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and data analyst.
+I am a Full Stack developer proficient in ReactJs, Redux, NodeJs, Typescript, Express, Flask, dJango, Redis, Mongodb, MySql, docker containers)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode, and read tech articles.
 
