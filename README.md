@@ -16,7 +16,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Full Stack developer with more experience working with backend technologies (nodeJs, typescript, Express, Flask, dJango, Redis, Mongodb, MySql, docker containers)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and data analyst from Nigeria.
+I am a Full Stack developer with more experience working with backend technologies (nodeJs, typescript, Express, Flask, dJango, Redis, Mongodb, MySql, docker containers)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> and data analyst.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode, and read tech articles.
 
@@ -37,7 +37,3 @@ I am a Full Stack developer with more experience working with backend technologi
 </div>
 
 ---
-
-### :fire: My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api?username=DrPlain&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
