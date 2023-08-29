@@ -40,4 +40,4 @@ I am a Full Stack developer with more experience working with backend technologi
 
 ### :fire: My Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrPlain&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=DrPlain&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
