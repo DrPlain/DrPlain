@@ -18,7 +18,7 @@
 ### About Me :
 I am a Full Stack developer proficient in ReactJs, Redux, NodeJs, Typescript, Express, Flask, dJango, Redis, Mongodb, MySql, docker containers<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and Leetcode, and read tech articles.
+- :zap: In my free time, I read and write technical articles and explore novel AI releases.
 
 - How to reach me: ![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)https://www.linkedin.com/in/obiasor-gideon-46116418b
 
